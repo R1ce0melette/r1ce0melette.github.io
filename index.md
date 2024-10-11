@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[DUCTF 2024 Journe](https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74)
+<p><a href="https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74"/>View my notes here</p>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
