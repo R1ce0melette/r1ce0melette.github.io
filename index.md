@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[DUCTF 2024 Journe](https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74)
-<p><a href="https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74"/>View my notes here</p>
+[DUCTF 2024 Journey](https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
