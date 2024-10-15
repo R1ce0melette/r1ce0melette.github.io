@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Hackthebox - VCS training
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [EASYHTB - JERRY](https://curvy-lupin-c27.notion.site/Hackthebox-Jerry-12030acfb26e80bf8995fd61f4f73eb9?pvs=25)
+- [EASYHTB - TABBY](https://curvy-lupin-c27.notion.site/Hackthebox-Tabby-12030acfb26e8067991ed6f037e43174?pvs=25)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
