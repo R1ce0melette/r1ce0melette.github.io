@@ -2,27 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Most recent work 
 
 [DUCTF 2024 Journey](https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Vulnerable Web application](https://github.com/R1ce0melette/vulnerable_forum/)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Secure Web application](https://github.com/R1ce0melette/secure-webapp/)
 
 ---
 
 ### Hackthebox - VCS training
 
-- [EASYHTB - JERRY](https://curvy-lupin-c27.notion.site/Hackthebox-Jerry-12030acfb26e80bf8995fd61f4f73eb9?pvs=25)
-- [EASYHTB - TABBY](https://curvy-lupin-c27.notion.site/Hackthebox-Tabby-12030acfb26e8067991ed6f037e43174?pvs=25)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [EASY HTB Series](https://curvy-lupin-c27.notion.site/VCS-Training-Easy-HTB-series-12130acfb26e800c8799efc1201c5056)
+- [MEDIUM HTB Series](https://curvy-lupin-c27.notion.site/VCS-Training-Medium-HTB-series-12130acfb26e804abb40ecadc8f9a9da)
 
 ---
 
