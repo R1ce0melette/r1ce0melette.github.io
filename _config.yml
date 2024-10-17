@@ -2,9 +2,11 @@ title: Long Do # your name (or website title) here
 logo: "images/1726141292258.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   R1ce0mmelettes
-  <br><br>
-  Cyber Security Specialist
-  <br><br>
+  <br>
+  Former Threat Intelligence analyst at VCS
+  <br>
+  CompTIA Sec+ | DUCA CTF Collector & Designer
+  <br>
   <a href="https://www.linkedin.com/in/r1ce0mellete/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
