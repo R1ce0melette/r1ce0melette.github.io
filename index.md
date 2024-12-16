@@ -21,8 +21,9 @@
 - [EASY HTB Series](https://curvy-lupin-c27.notion.site/VCS-Training-Easy-HTB-series-12130acfb26e800c8799efc1201c5056)
 - [MEDIUM HTB Series](https://curvy-lupin-c27.notion.site/VCS-Training-Medium-HTB-series-12130acfb26e804abb40ecadc8f9a9da)
 ---
+
 ### TryHackMe - Notable rooms
-- [Monday Monitor Practical Security analyst room with WAZUH](https://curvy-lupin-c27.notion.site/THM-Monday-Monitor-15230acfb26e8064996fd821d3afbafb)
+- [Practical Security analyst room with WAZUH](https://curvy-lupin-c27.notion.site/THM-Monday-Monitor-15230acfb26e8064996fd821d3afbafb)
 ---
 
 <!-- Remove above link if you don't want to attibute -->
