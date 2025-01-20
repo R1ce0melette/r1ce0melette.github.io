@@ -3,10 +3,13 @@
 ---
 
 ### Most recent work 
+[UWSP - POCTF 2024](https://curvy-lupin-c27.notion.site/POCTF-UWSP-17b30acfb26e8088a812fe66798cafc6)
+
+---
 [HTB:University 2024](https://curvy-lupin-c27.notion.site/CTF-Badland-15c30acfb26e80bab547f8069dd5d247)
 
 ---
-[DUCTF 2024 Journey](https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096?pvs=74)
+[DUCTF 2024 Journey](https://curvy-lupin-c27.notion.site/DUCTF-2024-9e1070e2881b462a8caa992248df1096)
 
 ---
 [Vulnerable Web application](https://github.com/R1ce0melette/vulnerable_forum/)
